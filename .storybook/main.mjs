@@ -28,6 +28,7 @@ export default {
     "@storybook/addon-a11y",
     "@storybook/addon-essentials",
     "@storybook/addon-storysource",
+    "@storybook/addon-interactions",
     "@chakra-ui/storybook-addon",
   ],
   async viteFinal(config) {
